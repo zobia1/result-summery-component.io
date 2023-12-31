@@ -154,7 +154,7 @@ span{
     border-radius: 10px;
     margin-bottom: 1rem;
 }
-@media (max-width: 375px){
+@media (max-width: 775px){
     .container{
         flex-direction: column;
         margin-top: 135px;
